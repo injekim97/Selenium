@@ -22,3 +22,10 @@ Python Selenium 으로 제작한 토이 프로젝트 리포지토리
 * 2021.01.24 : 마스크 알리미   
 -> 파일명 :  마스크 알리미.py              
 *** 
+
+
+
+
+* 2021.01.25 : auto_streaming      
+-> 파일명 :  auto_streaming.ipynb                
+*** 
