@@ -29,3 +29,10 @@ Python Selenium 으로 제작한 토이 프로젝트 리포지토리
 * 2021.01.25 : auto_streaming      
 -> 파일명 :  auto_streaming.ipynb                
 *** 
+
+
+
+
+* 2021.01.26 : 기숙사 호실신청     
+-> 파일명 :   기숙사 호실신청.py             
+*** 
